@@ -10,15 +10,13 @@ This is a very cute kitty that chills on your screen to keep you company! please
 ## How to use?
 
 Well first you would have to click [here], this would redirect you to the Amateurie itch.io install page.
-Please install it and unzip the folder, once that's done, run it and BOOM! Amateurie is on your screen ready to play with you:D
+Please install it and open the folder, once that's done, run it and BOOM! Amateurie is on your screen ready to play with you:D
 
 ## Functionality:
 
 - It can randomly walk on your screen.
 - It can stay idle for a couple seconds.
 - You can hold and drag it by holding the left mouse button.
-- You can hurt it by right clicking it's stomach.
-- You can make it pass out by hitting it enough times.
   
 ## Credits:
 
